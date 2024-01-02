@@ -161,7 +161,7 @@ with tab4:
 
 with tab5:
     st.header('Rating Distribution')
-    st.write(f'The last histogram is about the rating distribution.')
+    st.write(f'This histogram is about the rating distribution.')
     st.plotly_chart(fig_br_filtered)
 
 with tab6:
