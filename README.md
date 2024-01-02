@@ -21,3 +21,14 @@ Welcome to the Book Data Vizualizer App! This web app analyzes a dataset called 
 
    ```bash
    git clone https://github.com/SUSHAANT-REGMI/DataViz.git
+
+2. Install Dependencies:
+
+   ```bash
+   pip install -r requirements.txt
+
+3. Run the app:
+
+   ```bash
+   streamlit run dataviz.py
+
